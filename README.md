@@ -2,7 +2,7 @@
   <img src="https://img.shields.io/badge/Hello%20there!-Welcome!-blue?style=for-the-badge" alt="Welcome Badge"/>
 </div>
 
-<h1 align="center">👋 Hi, I'm [Your Name]!</h1>
+<h1 align="center">👋 Hi, I'm Bonnie </h1>
 
 <p align="center">
   A passionate backend web developer from the ALX Software Engineering program, driven by the art of creating efficient and robust systems that just work.
