@@ -83,4 +83,4 @@
 
 ---
 
-<p align="center">Made with ❤️ by [Your Name]</p>
+<p align="center">Made with ❤️ by Bonnie </p>
