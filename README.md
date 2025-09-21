@@ -1,4 +1,4 @@
-# 👨‍💻 Bonnie — Backend Web Developer  
+# 👨‍💻 **Bonnie** — Software Engineer | Backend Web Developer | IT Systems Specialist 
 
 ### 🚀 About Me  
 - Passionate about **efficient systems** that solve real-world problems.  
