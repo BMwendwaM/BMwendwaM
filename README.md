@@ -9,7 +9,7 @@
 
 ### 💡 Vision & Drive  
 I believe in the power of technology to **empower communities**.  
-My aim is to **grow as a backend engineer**, master new tools, and build systems that are scalable, reliable, and beneficial to society.  
+My aim is to **grow as a backend engineer**, master new tools and build systems that are scalable, reliable and beneficial to society.  
 
 ---
 
